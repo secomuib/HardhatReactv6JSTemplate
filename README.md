@@ -60,4 +60,3 @@ To execute Hardhat test:
 npx hardhat test
 ```
 
-np
