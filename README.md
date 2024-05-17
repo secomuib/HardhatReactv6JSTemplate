@@ -18,9 +18,6 @@ Keys and assign them to these variables respectively.
 
 ```
 INFURA_KEY =
-```
-
-```
 COINMARKETCAP_API_KEY =
 ```
 
